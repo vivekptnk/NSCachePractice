@@ -11,6 +11,7 @@
 		E3563DAF267D4EC800532C07 /* ContentView.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3563DAE267D4EC800532C07 /* ContentView.swift */; };
 		E3563DB1267D4EC900532C07 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3563DB0267D4EC900532C07 /* Assets.xcassets */; };
 		E3563DB4267D4EC900532C07 /* Preview Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = E3563DB3267D4EC900532C07 /* Preview Assets.xcassets */; };
+		E3563DBC267D4F3400532C07 /* NSCachePractice.swift in Sources */ = {isa = PBXBuildFile; fileRef = E3563DBB267D4F3400532C07 /* NSCachePractice.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -20,6 +21,7 @@
 		E3563DB0267D4EC900532C07 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		E3563DB3267D4EC900532C07 /* Preview Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = "Preview Assets.xcassets"; sourceTree = "<group>"; };
 		E3563DB5267D4EC900532C07 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		E3563DBB267D4F3400532C07 /* NSCachePractice.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = NSCachePractice.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -57,6 +59,7 @@
 				E3563DB0267D4EC900532C07 /* Assets.xcassets */,
 				E3563DB5267D4EC900532C07 /* Info.plist */,
 				E3563DB2267D4EC900532C07 /* Preview Content */,
+				E3563DBB267D4F3400532C07 /* NSCachePractice.swift */,
 			);
 			path = NSCachePractice;
 			sourceTree = "<group>";
@@ -138,6 +141,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				E3563DBC267D4F3400532C07 /* NSCachePractice.swift in Sources */,
 				E3563DAF267D4EC800532C07 /* ContentView.swift in Sources */,
 				E3563DAD267D4EC800532C07 /* NSCachePracticeApp.swift in Sources */,
 			);

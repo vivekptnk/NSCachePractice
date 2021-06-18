@@ -11,7 +11,8 @@ import SwiftUI
 struct NSCachePracticeApp: App {
     var body: some Scene {
         WindowGroup {
-            ContentView()
+//            ContentView()
+            NSCachePractice()
         }
     }
 }
